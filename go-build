@@ -1,0 +1,2 @@
+#!/bin/bash
+go build -ldflags="-r /usr/local/Cellar/zeromq/4.0.3/lib" $1
