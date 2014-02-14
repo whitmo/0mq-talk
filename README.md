@@ -7,7 +7,7 @@ licensing that applies to them applies here.
 
 ## Resources
 
-http://zguide.zeromq.org/page:all
-http://zeromq.github.io/pyzmq/
-http://learning-0mq-with-pyzmq.readthedocs.org/en/latest/
-http://blog.jupo.org/2013/02/23/a-tale-of-two-queues/
+ - http://zguide.zeromq.org/page:all
+ - http://zeromq.github.io/pyzmq/
+ - http://learning-0mq-with-pyzmq.readthedocs.org/en/latest/
+
